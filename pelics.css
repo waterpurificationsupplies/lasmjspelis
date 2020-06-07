@@ -125,6 +125,7 @@ h2{
     max-height: 0;
     opacity: 0;
     transition: 0.3s linear;
+      
   }
 
   .card:hover p{
@@ -143,3 +144,6 @@ h2{
       margin: 10px 0;
     }
   }
+a{
+    text-decoration:none;
+}
