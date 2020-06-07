@@ -129,8 +129,10 @@ h2{
   }
 
   .card:hover p{
-    max-height: 40px;
+max-height: 35px;
     opacity: 1;
+    color: black;
+    font-size: 16px;
   }
 
 
